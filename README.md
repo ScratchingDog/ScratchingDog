@@ -93,23 +93,21 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 > 💻 Desarrollador Apasionado | 🚀 Entusiasta de la Tecnología
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador al que le encanta crear soluciones innovadoras y contribuir a la comunidad de código abierto. Creo en el poder de la colaboración y el aprendizaje continuo.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador al que le encanta crear soluciones innovadoras.
 
 #### 🔭 En Qué Estoy Trabajando
 
 - Construyendo proyectos emocionantes que resuelven problemas del mundo real
-- Contribuyendo a comunidades de código abierto
 - Aprendiendo nuevas tecnologías y mejorando mis habilidades
 - Compartiendo conocimiento con otros desarrolladores
 
 #### 🌱 Tecnologías y Herramientas
 
 ```
-💻 Lenguajes     : Python, JavaScript, Java, y más
+💻 Lenguajes     : JavaScript, Python
 🛠️ Herramientas  : Git, Docker, VS Code
-🌐 Web           : HTML, CSS, React, Node.js
+🌐 Web           : HTML, CSS, PHP, React, Node.js
 📊 Bases de Datos: MongoDB, PostgreSQL, MySQL
-☁️ Cloud         : AWS, Azure, Google Cloud
 ```
 
 #### 📈 Estadísticas de GitHub
@@ -150,15 +148,6 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 ![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=ScratchingDog&theme=react-dark&hide_border=true)
 
 </div>
-
-#### 🏆 Trofeos de GitHub
-
-<div align="center">
-
-![Trofeos](https://github-profile-trophy.vercel.app/?username=ScratchingDog&theme=radical&no-frame=true&row=1&column=7)
-
-</div>
-
 ---
 
 <div align="center">
