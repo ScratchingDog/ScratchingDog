@@ -15,7 +15,7 @@
 
 ### Hi there! 👋 I'm ScratchingDog
 
-> 💻 Passionate Developer | 🚀 Tech Enthusiast | 🌟 Open Source Contributor
+> 💻 Passionate Developer | 🚀 Tech Enthusiast
 
 Welcome to my GitHub profile! I'm a developer who loves building innovative solutions and contributing to the open-source community. I believe in the power of collaboration and continuous learning.
 
@@ -91,7 +91,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ### ¡Hola! 👋 Soy ScratchingDog
 
-> 💻 Desarrollador Apasionado | 🚀 Entusiasta de la Tecnología | 🌟 Contribuidor Open Source
+> 💻 Desarrollador Apasionado | 🚀 Entusiasta de la Tecnología
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador al que le encanta crear soluciones innovadoras y contribuir a la comunidad de código abierto. Creo en el poder de la colaboración y el aprendizaje continuo.
 
