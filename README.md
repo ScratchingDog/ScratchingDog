@@ -108,6 +108,7 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 🛠️ Herramientas  : Git, Docker, VS Code
 🌐 Web           : HTML, CSS, PHP, React, Node.js
 📊 Bases de Datos: MongoDB, PostgreSQL, MySQL
+Sistemas Operativos: Windows, Linux
 ```
 
 #### 📈 Estadísticas de GitHub
