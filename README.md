@@ -66,6 +66,17 @@
 
 </div>
 
+### 🧪 Other experience (personal/small projects)
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
 <div align="center">
 
 ### 🧩 Tools
@@ -87,19 +98,6 @@
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
-</div>
-
----
-
-## 🧪 Other experience (personal/small projects)
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -197,6 +195,17 @@
 
 </div>
 
+### 🧪 Otros (proyectos personales / puntuales)
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
 <div align="center">
 
 ### 🧩 Herramientas
@@ -218,19 +227,6 @@
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
-</div>
-
----
-
-## 🧪 Otros (proyectos personales / puntuales)
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
