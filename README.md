@@ -66,9 +66,9 @@
 
 </div>
 
-### 🧪 Other experience (personal/small projects)
-
 <div align="center">
+
+### 🧪 Other experience (personal/small projects)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -195,9 +195,9 @@
 
 </div>
 
-### 🧪 Otros (proyectos personales / puntuales)
-
 <div align="center">
+
+### 🧪 Otros (proyectos personales / puntuales)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
