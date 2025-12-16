@@ -1,9 +1,11 @@
 <div align="center">
 
-# 👋 Welcome to my GitHub Profile!
+# 👋 Welcome to my GitHub Profile! | ¡Bienvenido a mi perfil de GitHub!
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=google-translate)](#english)
 [![Español](https://img.shields.io/badge/Idioma-Español-red?style=for-the-badge&logo=google-translate)](#español)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ScratchingDog&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -15,73 +17,115 @@
 
 ### Hi there! 👋 I'm ScratchingDog
 
-> 💻 Passionate Developer | 🚀 Tech Enthusiast
+> Full Stack developer focused on **TypeScript + Node.js** (React/Next).  
+> I enjoy building practical web apps, clean APIs, and deploying them on real servers.
 
-Welcome to my GitHub profile! I'm a developer who loves building innovative solutions and contributing to the open-source community. I believe in the power of collaboration and continuous learning.
+---
 
-#### 🔭 What I'm Working On
+## 🧰 Tech Stack (at a glance)
 
-- Building exciting projects that solve real-world problems
-- Contributing to open-source communities
-- Learning new technologies and improving my skills
-- Sharing knowledge with fellow developers
+<div align="center">
 
-#### 🌱 Technologies & Tools
+### 🎯 Full Stack (Main)
 
-```
-💻 Languages     : Python, JavaScript, Java, and more
-🛠️ Tools         : Git, Docker, VS Code
-🌐 Web           : HTML, CSS, React, Node.js
-📊 Databases     : MongoDB, PostgreSQL, MySQL
-☁️ Cloud         : AWS, Azure, Google Cloud
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### 📈 GitHub Stats
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🖥️ Systems / Servers
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_(Debian/Arch)-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx_(basic)-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=serverfault&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🧩 Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 AI (practical use)
+
+<div align="center">
+
+![ComfyUI](https://img.shields.io/badge/ComfyUI-111827?style=for-the-badge&logo=github&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-6B21A8?style=for-the-badge&logo=stabilityai&logoColor=white)
+![FLUX](https://img.shields.io/badge/FLUX-111827?style=for-the-badge&logo=github&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge&logo=openai&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-111827?style=for-the-badge&logo=ollama&logoColor=white)
+
+</div>
+
+- **Image generation** using **ComfyUI** with custom workflows/configurations.
+- **Text generation** using **Prompt Engineering** with very specific parameters and goals.
+- Custom AI interfaces/environments with **Open WebUI**.
+- Models/tools used: **GPT, Claude, DeepSeek, Grok**.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScratchingDog&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScratchingDog&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ScratchingDog&theme=radical&hide_border=true)
 
 </div>
 
-#### 🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 🔗 Check out my pinned repositories below for some of my best work!
-
-#### 💡 What Drives Me
-
-- 🎯 **Problem Solving**: I love tackling complex challenges and finding elegant solutions
-- 🤝 **Collaboration**: Working with others to create something amazing
-- 📚 **Continuous Learning**: Always exploring new technologies and methodologies
-- 🌍 **Impact**: Building projects that make a difference
-
-#### 🤝 Let's Connect!
-
-I'm always open to interesting conversations, collaboration opportunities, and new friendships in the tech community!
-
-- 💬 **Ask me about**: Programming, tech trends, open source, or anything tech-related
-- 📫 **How to reach me**: Feel free to open an issue or reach out through GitHub
-- 🌟 **Fun fact**: I love solving algorithmic puzzles and contributing to open source!
-
-#### 📊 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ScratchingDog&theme=react-dark&hide_border=true)
-
-</div>
-
-#### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ScratchingDog&theme=radical&no-frame=true&row=1&column=7)
-
-</div>
 
 ---
 
@@ -91,74 +135,117 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 
 ### ¡Hola! 👋 Soy ScratchingDog
 
-> 💻 Desarrollador Apasionado | 🚀 Entusiasta de la Tecnología
+> Desarrollador **Full Stack** centrado en **TypeScript + Node.js** (React/Next).  
+> Me gusta crear apps web útiles, APIs limpias y desplegarlas en servidores reales.
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador al que le encanta crear soluciones innovadoras.
+---
 
-#### 🔭 En Qué Estoy Trabajando
+## 🧰 Stack (de un vistazo)
 
-- Construyendo proyectos emocionantes que resuelven problemas del mundo real
-- Aprendiendo nuevas tecnologías y mejorando mis habilidades
-- Compartiendo conocimiento con otros desarrolladores
+<div align="center">
 
-#### 🌱 Tecnologías y Herramientas
+### 🎯 Full Stack (principal)
 
-```
-💻 Lenguajes     : JavaScript, Python
-🛠️ Herramientas  : Git, Docker, VS Code
-🌐 Web           : HTML, CSS, PHP, React, Node.js
-📊 Bases de Datos: MongoDB, PostgreSQL, MySQL
-Sistemas Operativos: Windows, Linux
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### 📈 Estadísticas de GitHub
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🗄️ Bases de datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🖥️ Sistemas / Servidores
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_(Debian/Arch)-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx_(básico)-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=serverfault&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🧩 Herramientas
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### 🎨 Diseño
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 IA (uso aplicado)
+
+<div align="center">
+
+![ComfyUI](https://img.shields.io/badge/ComfyUI-111827?style=for-the-badge&logo=github&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-6B21A8?style=for-the-badge&logo=stabilityai&logoColor=white)
+![FLUX](https://img.shields.io/badge/FLUX-111827?style=for-the-badge&logo=github&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge&logo=openai&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-111827?style=for-the-badge&logo=ollama&logoColor=white)
+
+</div>
+
+- Generación de **imágenes** con **ComfyUI** *(workflows/configuraciones personalizadas)*.
+- Generación de **texto** con **Prompt Engineering** *(parámetros y objetivos concretos)*.
+- Interfaces/entornos personalizados para IA con **Open WebUI**.
+- Modelos/herramientas usadas: **GPT, Claude, DeepSeek, Grok**.
+
+---
+
+## 📈 Estadísticas de GitHub
 
 <div align="center">
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ScratchingDog&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=es)
-
 ![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=ScratchingDog&layout=compact&theme=radical&hide_border=true&locale=es)
-
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=ScratchingDog&theme=radical&hide_border=true&locale=es)
 
 </div>
 
-#### 🚀 Proyectos Destacados
-
-🔗 ¡Echa un vistazo a mis repositorios destacados más abajo para ver algunos de mis mejores trabajos!
-
-#### 💡 Qué Me Motiva
-
-- 🎯 **Resolución de Problemas**: Me encanta enfrentar desafíos complejos y encontrar soluciones elegantes
-- 🤝 **Colaboración**: Trabajar con otros para crear algo increíble
-- 📚 **Aprendizaje Continuo**: Siempre explorando nuevas tecnologías y metodologías
-- 🌍 **Impacto**: Construir proyectos que marquen la diferencia
-
-#### 🤝 ¡Conectemos!
-
-¡Siempre estoy abierto a conversaciones interesantes, oportunidades de colaboración y nuevas amistades en la comunidad tecnológica!
-
-- 💬 **Pregúntame sobre**: Programación, tendencias tecnológicas, código abierto, o cualquier cosa relacionada con tecnología
-- 📫 **Cómo contactarme**: No dudes en abrir un issue o contactarme a través de GitHub
-- 🌟 **Dato curioso**: ¡Me encanta resolver puzzles algorítmicos y contribuir al código abierto!
-
-#### 📊 Actividad de Contribuciones
-
-<div align="center">
-
-![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=ScratchingDog&theme=react-dark&hide_border=true)
-
-</div>
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting! | ¡Gracias por tu visita! 🌟
+### 🌟 Thanks for visiting! | ¡Gracias por tu visita!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ScratchingDog&color=blueviolet&style=for-the-badge)
-
-**⭐ If you like my work, consider giving a star to my repositories! ⭐**
-
-**⭐ ¡Si te gusta mi trabajo, considera darle una estrella a mis repositorios! ⭐**
+**⭐ If you like my work, consider giving a star to my repositories!**  
+**⭐ ¡Si te gusta mi trabajo, considera darle una estrella a mis repositorios!**
 
 </div>
