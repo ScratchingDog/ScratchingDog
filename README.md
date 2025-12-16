@@ -128,7 +128,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScratchingDog&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScratchingDog&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ScratchingDog&theme=radical&hide_border=true)
 
 </div>
 
@@ -257,7 +256,6 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ScratchingDog&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=es)
 ![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=ScratchingDog&layout=compact&theme=radical&hide_border=true&locale=es)
-![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=ScratchingDog&theme=radical&hide_border=true&locale=es)
 
 </div>
 
